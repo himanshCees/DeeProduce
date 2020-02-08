@@ -1,2 +1,2 @@
-# Merce-Dese
-Using Mercedes' production line data to predict time taken for production of cars based on data from anonymously named variables using Deep Learning (as a case study for development of optimization methods for manufacturing)
+# 
+Using production line data to predict time taken for production from anonymous variables using Deep Learning methods
